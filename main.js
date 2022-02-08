@@ -19,9 +19,9 @@
       origin: 'bottom',
     }, 4000)
 
-    sr.reveal('#chat1', {
-        delay: 4000,
-    }, 4000)
+    // sr.reveal('#chat1', {
+    //     delay: 4000,
+    // }, 4000)
 
 
     sr.reveal('h2', {
