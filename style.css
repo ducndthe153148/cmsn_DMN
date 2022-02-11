@@ -200,6 +200,8 @@ h2 {
     padding-top: 3rem;
     padding-bottom: 3rem;
     height: 100%;
+    padding-left: 45px;
+    padding-right: 45px;
 }
 
 #showcase p {
